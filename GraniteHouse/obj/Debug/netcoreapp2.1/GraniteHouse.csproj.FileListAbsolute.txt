@@ -43,10 +43,13 @@ C:\Users\Quyen\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Ra
 C:\Users\Quyen\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductTypes\Details.g.cshtml.cs
 C:\Users\Quyen\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductTypes\Delete.g.cshtml.cs
 C:\Users\Quyen\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SpecialTags\Index.g.cshtml.cs
-C:\Users\Quyen\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.csprojAssemblyReference.cache
 C:\Users\Quyen\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SpecialTags\Create.g.cshtml.cs
 C:\Users\Quyen\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SpecialTags\Edit.g.cshtml.cs
 C:\Users\Quyen\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SpecialTags\Details.g.cshtml.cs
 C:\Users\Quyen\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SpecialTags\Delete.g.cshtml.cs
 C:\Users\Quyen\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Create.g.cshtml.cs
 C:\Users\Quyen\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Index.g.cshtml.cs
+C:\Users\Quyen\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.csprojAssemblyReference.cache
+C:\Users\Quyen\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Edit.g.cshtml.cs
+C:\Users\Quyen\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Details.g.cshtml.cs
+C:\Users\Quyen\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Delete.g.cshtml.cs

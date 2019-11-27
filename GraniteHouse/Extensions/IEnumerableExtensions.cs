@@ -15,8 +15,8 @@ namespace GraniteHouse.Extensions
                    {
                        Text = item.GetPropertyValue("Name"),
                        Value = item.GetPropertyValue("Id"),
-                       Selected = item.GetPropertyValue("Id").Equals(selectedValue.ToString());
-                   }
+                       Selected = item.GetPropertyValue("Id").Equals(selectedValue.ToString())
+                   };
         }
     }
 }
